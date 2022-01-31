@@ -1,0 +1,7 @@
+{
+  "name": "{{ project }}",
+  "version": "{{ version }}",
+  "main": "index.js",
+  "author": "{{ name }} <{{ email }}>",
+  "license": "{{ license }}"
+}

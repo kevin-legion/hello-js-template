@@ -1,0 +1,8 @@
+with_readme = true
+
+[files]
+templates = ["index.js", "package.json"]
+
+[config]
+version = "0.1.0"
+version_control = "git"
